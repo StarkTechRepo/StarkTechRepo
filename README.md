@@ -17,7 +17,9 @@
   </a>
 </p>
 
-<!-- Imagen de banner debajo de la animación -->
+<p align="center" style="color: #ff0000; font-size: 18px;">I show you the real thing. FREE. Not like others.</p>
+
+<!-- Imagen de banner debajo de las animaciones -->
 <p align="center">
   <img src="tu_imagen_de_banner.jpg" alt="Banner" width="600" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 </p>
