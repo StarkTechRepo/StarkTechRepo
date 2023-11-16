@@ -1,5 +1,5 @@
 <!-- Saludo con el nombre del usuario y enlace al perfil -->
-<h1 align="center"><b>¡Hola! Soy <a href="https://github.com/StarkTechRepo" style="text-decoration: none; color: #0366d6;">StarkTechRepo</a> 👋</b></h1>
+<h1 align="center"><b>¡Hola! Soy <a href="https://github.com/StarkTechRepo" style="text-decoration: none; color: #0366d6;">StarkTechRepo (オタコン)</a> 👋</b></h1>
 
 <!-- Descripción atractiva y centrada -->
 <p align="center">
