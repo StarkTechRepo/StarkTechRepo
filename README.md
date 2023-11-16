@@ -19,7 +19,3 @@
   <img src="tu_imagen_de_banner.jpg" alt="Banner" width="600" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 </p>
 
-<!-- Línea en rojo -->
-<p align="center" style="color: #B50063; font-size: 18px;"><b>I show you the real thing. FREE. Not like others.</b></p>
-
-
