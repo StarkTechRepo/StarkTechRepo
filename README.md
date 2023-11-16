@@ -15,7 +15,7 @@
 </p>
 
 <!-- Línea en rojo -->
-<p align="center" style="color: #ff0000; font-size: 18px;"><b>I show you the real thing. FREE. Not like others.</b></p>
+<p align="center" style="color: #B50063; font-size: 18px;"><b>I show you the real thing. FREE. Not like others.</b></p>
 
 <!-- Imagen de banner con sombra -->
 <p align="center">
